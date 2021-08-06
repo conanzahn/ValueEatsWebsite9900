@@ -4,9 +4,7 @@
 
 Value Eats
 
-Our Original Group GitHub Classroom Repo (currently is private):
-
- ```https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp9900-w18b-developers.git```
+[Our Original Group GitHub Classroom Repo (currently is private)](https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp9900-w18b-developers.git) 
 
 #### Group member
 
