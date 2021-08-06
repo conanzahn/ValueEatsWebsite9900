@@ -4,6 +4,10 @@
 
 Value Eats
 
+Our Original Group GitHub Classroom Repo (currently is private):
+
+ ```https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp9900-w18b-developers.git```
+
 #### Group member
 
 | Name         | Student ID | Role                               |
@@ -21,8 +25,8 @@ Value Eats
 * Django 3.2.4
 * Pyjwt 2.1.0
 
-## Getting started (Tested successfully in UNSW CSE vlab environment)
-1. Clone the project to your machine ```[git clone https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp9900-w18b-developers.git]```
+## Getting started
+1. Clone the project to your machine ```[git clone https://github.com/conanzahn/ValueEatsWebsite9900.git]```
 2. Navigate into the Back-end directory ```[cd Backend]```
 3. Creates a virtual environment ```[python3 -m venv env]```
 4. Activate the virtual environment ```[source env/bin/activate]```
