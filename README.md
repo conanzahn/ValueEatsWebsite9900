@@ -8,13 +8,13 @@ Value Eats
 
 #### Group member
 
-| Name         | Student ID | Role                               |
-| ------------ | ---------- | ---------------------------------- |
-| Haonan Zhang | z5151812   | Scrum Master & Front-end Developer |
-| Hanrui Tao   | z5237012   | Front-end Developer                |
-| Jiaming Liu  | z5190422   | Back-end Developer                 |
-| Jian Li      | z5181781   | Back-end Developer                 |
-| Yingda Chen  | z5240335   | Back-end Developer                 |
+| Name          | Role                               |
+| ------------  | ---------------------------------- |
+| Haonan Zhang  | Scrum Master & Front-end Developer |
+| Hanrui Tao    | Front-end Developer                |
+| Jiaming Liu   | Back-end Developer                 |
+| Jian Li       | Back-end Developer                 |
+| Yingda Chen   | Back-end Developer                 |
 
 ## Requirements
 * Node.js
