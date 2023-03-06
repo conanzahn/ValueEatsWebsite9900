@@ -4,7 +4,7 @@
 
 Value Eats
 
-Our Group GitHub Repo currently is private status, this is a initial code vesion repo.
+Our Team GitHub Repo currently is in private status, this is a copy of the initial version project.
 
 #### Group member
 
